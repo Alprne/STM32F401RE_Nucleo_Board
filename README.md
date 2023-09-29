@@ -1,5 +1,5 @@
 # STM32F401RE_Nucleo_Board
-This repository includes embedded driver for several peripherals (and their applications GPIO's, SPI, I2C, UART, ...) which needed for using STM32F401RE Nucleo Board. Also you can find DS1307 RTC and HD44780U LCD drivers for RTC application which you can find in project Src. This repository is created with the supports of MCU1 course from the Fastbit Brain Academy.
+This repository includes embedded driver for several peripherals (and their applications GPIO's, SPI, I2C, UART, ...) which needed for using STM32F401RE Nucleo Board. Also you can find DS1307 RTC and HD44780U LCD drivers for RTC application. This repository is created with the supports of MCU1 course from the Fastbit Brain Academy.
 
 You can apply this drivers directly your Nucleo-STM32F401RE board with STM32CubeIDE.
 
